@@ -2,7 +2,7 @@
 
 Chainflow - https://initia-testnet-rpc.chainflow.io
 
-# Snashots
+# Snapshots
 
 Chainflow - TBD
 
