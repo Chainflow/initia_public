@@ -1,6 +1,7 @@
 # Public RPC nodes
 
 Chainflow - https://initia-testnet-rpc.chainflow.io
+stake2earn - https://initia-rpc.stake2earn.com
 
 # Snapshots
 
