@@ -1,10 +1,12 @@
 # Public RPC nodes
 
 Chainflow - https://initia-testnet-rpc.chainflow.io
+deNodes - https://initia-rpc.denodes.xyz
 
 # Snapshots
 
 Chainflow - TBD
+deNodes - https://services.denodes.xyz/initia/snapshot
 
 # Explorers
 
