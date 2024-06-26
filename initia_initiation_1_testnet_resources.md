@@ -1,5 +1,7 @@
 # Public endpoints
 
+Chainflow - https://initia-testnet-rpc.chainflow.io
+
 Chainflow RPC - https://initia-testnet-rpc.chainflow.io
 
 Crouton Digital RPC - https://initia-testnet-rpc.crouton.digital
@@ -14,9 +16,17 @@ Chainflow peer - 64424ee1f549a516afaf6669d1c4c775072837f2@74.118.139.219:26656
 
 Crouton Digital peer - 7db51040f340be9e92579c06ec2878770a2cb2b4@65.109.93.124:25756
 
+deNodes RPC - https://initia-rpc.denodes.xyz
+
+deNodes API - https://initia-api.denodes.xyz
+
+deNodes gRPC - initia-grps.denodes.xyz:443
+
 # Snapshots
 
 Chainflow - TBD
+
+deNodes - https://services.denodes.xyz/initia/snapshot
 
 # Explorers
 
