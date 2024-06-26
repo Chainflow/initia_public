@@ -1,6 +1,7 @@
 # Public endpoints
 
 Chainflow - https://initia-testnet-rpc.chainflow.io
+stake2earn - https://initia-rpc.stake2earn.com
 
 Chainflow RPC - https://initia-testnet-rpc.chainflow.io
 
