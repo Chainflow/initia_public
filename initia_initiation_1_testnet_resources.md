@@ -4,6 +4,8 @@ Chainflow RPC - https://initia-testnet-rpc.chainflow.io
 
 Crouton Digital RPC - https://initia-testnet-rpc.crouton.digital
 
+moonli.me RPC - https://initia.moonli.me
+
 Crouton Digital API - https://initia-testnet-api.crouton.digital
 
 Crouton Digital gRPC - initia-testnet-api.crouton.digital:25790
