@@ -2,8 +2,6 @@
 
 ## RPC
 
-Chainflow - https://initia-testnet-rpc.chainflow.io
-
 Chainflow RPC - https://initia-testnet-rpc.chainflow.io
 
 Crouton Digital RPC - https://initia-testnet-rpc.crouton.digital
