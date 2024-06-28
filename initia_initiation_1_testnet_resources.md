@@ -56,4 +56,13 @@ Crouton Digital - https://crouton.digital/services/testnets/initia
 
 # Blog posts
 
+[Initia Governance Explained](https://chainflow.io/initia-governance-explained/)
+
 # Social media posts
+
+[Understanding Enshrined Liquidity on Initia: A thread](https://x.com/ChainflowPOS/status/1806689266183065898)
+
+[A list of public contributions for Initia](https://x.com/ChainflowPOS/status/1805335840903864571)
+
+[What are interwoven rollups: A thread](https://x.com/ChainflowPOS/status/1803835286268579987)
+
