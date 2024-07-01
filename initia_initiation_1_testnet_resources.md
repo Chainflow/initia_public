@@ -32,7 +32,7 @@ Crouton Digital peer - 7db51040f340be9e92579c06ec2878770a2cb2b4@65.109.93.124:25
 
 # Snapshots
 
-Chainflow - http://initia_testnet_snapshot.chainflow.io/ (We're continuing to refine this.)
+Chainflow - http://initia-testnet-snapshot.chainflow.io/ (We're continuing to refine this.)
 
 deNodes - https://services.denodes.xyz/initia/snapshot
 
